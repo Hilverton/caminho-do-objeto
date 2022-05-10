@@ -1,0 +1,22 @@
+{
+  "name": "caminho-do-objeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --runTestsByPath get.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hilverton/caminho-do-objeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hilverton/caminho-do-objeto/issues"
+  },
+  "homepage": "https://github.com/Hilverton/caminho-do-objeto#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
